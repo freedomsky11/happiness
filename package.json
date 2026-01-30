@@ -1,0 +1,18 @@
+{
+  "name": "happiness",
+  "version": "1.0.0",
+  "description": "happiness",
+  "main": "index.html",
+  "author": "hanwei <i@hanwei.ink>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:freedomsky11/happiness.git"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.2"
+  },
+  "scripts": {
+    "start": "docsify serve ./docs -o"
+  }
+}
